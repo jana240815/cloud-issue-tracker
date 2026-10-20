@@ -6,5 +6,13 @@
     "priority": "High",
     "status": "Open",
     "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "d1a6f1a9-9ae8-4217-aff2-5499a6f56c1f",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-20T11:58:06.939Z"
   }
 ]
